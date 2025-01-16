@@ -79,8 +79,8 @@
       ]
     },
     {
-      "title": "Blocks",
-      "id": "blocks",
+      "title": "Blocks - 1",
+      "id": "blocks1",
       "components": [
         {
           "title": "Cards",
@@ -130,8 +130,8 @@
       ]
     },
     {
-      "title": "Blocks",
-      "id": "blocks",
+      "title": "Blocks - 2",
+      "id": "blocks2",
       "components": [
         {
           "title": "Fragment",
