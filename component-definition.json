@@ -126,7 +126,13 @@
               }
             }
           }
-        },
+        }
+      ]
+    },
+    {
+      "title": "Blocks",
+      "id": "blocks",
+      "components": [
         {
           "title": "Fragment",
           "id": "fragment",
